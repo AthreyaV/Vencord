@@ -1,0 +1,21 @@
+[submodule "src/userplugins/collapseChatButtons"]
+	path = src/userplugins/collapseChatButtons
+	url = https://github.com/coldcord/collapseChatButtons
+[submodule "src/userplugins/HolyNotes-VC"]
+	path = src/userplugins/HolyNotes-VC
+	url = https://github.com/WolfPlugs/HolyNotes-VC
+[submodule "src/userplugins/rpc-editor"]
+	path = src/userplugins/rpc-editor
+	url = https://git.nin0.dev/userplugins/rpc-editor
+[submodule "src/userplugins/userflags"]
+	path = src/userplugins/userflags
+	url = https://git.nin0.dev/userplugins/userflags.git
+[submodule "src/userplugins/vc-betterActivities"]
+	path = src/userplugins/vc-betterActivities
+	url = https://github.com/D3SOX/vc-betterActivities
+[submodule "src/userplugins/vc-sidebarchat"]
+	path = src/userplugins/vc-sidebarchat
+	url = https://github.com/Masterjoona/vc-sidebarchat
+[submodule "src/userplugins/vc-silentTypingEnhanced"]
+	path = src/userplugins/vc-silentTypingEnhanced
+	url = https://github.com/D3SOX/vc-silentTypingEnhanced
